@@ -1,0 +1,99 @@
+country_long;name;additional;location;latitude;longitude;primary_fuel;status;capacity_2022;capacity_2023;capacity_2024;capacity_2025;capacity_2026;capacity_2027;capacity_2028;capacity_2029;capacity_2030
+Uzbekistan;TashkentCHP1;CHP NaturalGas Steam S ;Mirabad district, Tashkent city;41.276;69.2936;gas;Existing;27;;;;;;;;27
+Uzbekistan;Novo-Angren3;ELC Lignite Steam M ;Nurabad settlement, Tashkent region;40.9233;69.8174;coal;Existing;300;;;;;;;;300
+Uzbekistan;Novo-Angren4;ELC Lignite Steam M;Nurabad settlement, Tashkent region;40.9233;69.8174;coal;Existing;300;;;;;;;;300
+Uzbekistan;Novo-Angren5;ELC Lignite Steam M ;Nurabad settlement, Tashkent region;40.9233;69.8174;coal;Existing;300;;;;;;;;300
+Uzbekistan;Novo-Angren6;ELC Lignite Steam M ;Nurabad settlement, Tashkent region;40.9233;69.8174;coal;Existing;300;;;;;;;;300
+Uzbekistan;Novo-Angren7;ELC Lignite Steam M ;Nurabad settlement, Tashkent region;40.9233;69.8174;coal;Existing;300;;;;;;;;300
+Uzbekistan;Angren6;ELC Lignite Steam S ;Angren city, Tashkent region;41.004897;70.122799;coal;Existing;68;;;;;;;;68
+Uzbekistan;SyrdaryaTPP10;ELC NaturalGas Steam L ;Shirin city, Syrdarya region;40.228056;69.100556;gas;Existing;325;;;;;;;;325
+Uzbekistan;SyrdaryaTPP5;ELC NaturalGas Steam L ;Shirin city, Syrdarya region;40.228056;69.100556;gas;Existing;325;;;;;;;;325
+Uzbekistan;SyrdaryaTPP6;ELC NaturalGas Steam L ;Shirin city, Syrdarya region;40.228056;69.100556;gas;Existing;325;;;;;;;;325
+Uzbekistan;SyrdaryaTPP7;ELC NaturalGas Steam L ;Shirin city, Syrdarya region;40.228056;69.100556;gas;Existing;300;;;;;;;;300
+Uzbekistan;SyrdaryaTPP8;ELC NaturalGas Steam L ;Shirin city, Syrdarya region;40.228056;69.100556;gas;Existing;300;;;;;;;;300
+Uzbekistan;SyrdaryaTPP9;ELC NaturalGas Steam L ;Shirin city, Syrdarya region;40.228056;69.100556;gas;Existing;325;;;;;;;;325
+Uzbekistan;NavoiTPPST11;ELC NaturalGas Steam M ;Karmana district, Navoiy region;40.158459;65.311909;gas;Existing;210;;;;;;;;210
+Uzbekistan;NavoiTPPST12;ELC NaturalGas Steam M ;Karmana district, Navoiy region;40.158459;65.311909;gas;Existing;210;;;;;;;;210
+Uzbekistan;TakhiatashTPP7;ELC NaturalGas Steam M ;Takhiatash district, Karakalpakistan rep;42.315236;59.554756;gas;Existing;210;;;;;;;;210
+Uzbekistan;TakhiatashTPP8;ELC NaturalGas Steam M ;Takhiatash district, Karakalpakistan rep;42.315236;59.554756;gas;Existing;210;;;;;;;;210
+Uzbekistan;Angren9;ELC Lignite Steam M ;Nurabad settlement, Tashkent region;41.004897;70.122799;coal;Existing;150;;;;;;;;150
+Uzbekistan;NavoiTPPCC1;ELC NaturalGas CombinedCycle L ;Karmana district, Navoiy region;40.158459;65.311909;gas;Existing;464;;;;;;;;464
+Uzbekistan;NavoiTPPCC2;ELC NaturalGas CombinedCycle L ;Karmana district, Navoiy region;40.158459;65.311909;gas;Existing;464;;;;;;;;464
+Uzbekistan;TalimarjanTPPCC1;ELC NaturalGas CombinedCycle L ;Talimarjan district, Kashkadarya region;38.481232;65.62977;gas;Existing;450;;;;;;;;450
+Uzbekistan;TalimarjanTPPCC2;ELC NaturalGas CombinedCycle L ;Talimarjan district, Kashkadarya region;38.481233;65.62978;gas;Existing;450;;;;;;;;450
+Uzbekistan;TashkentTPP13;ELC NaturalGas CombinedCycle L ;Tashkent city;41.3796;69.370217;gas;Existing;370;;;;;;;;370
+Uzbekistan;TurakurganTPP1;ELC NaturalGas CombinedCycle L ;Turakurgan district, Namangan region;40.997052;71.458276;gas;Existing;450;;;;;;;;450
+Uzbekistan;TurakurganTPP2;ELC NaturalGas CombinedCycle L ;Turakurgan district, Namangan region;40.997052;71.458276;gas;Existing;450;;;;;;;;450
+Uzbekistan;Kibray1;ELC NaturalGas CombinedCycle M ;Kibray district, Tashkent city;41.3869298;69.46355679;gas;Existing;240;;;;;;;;240
+Uzbekistan;TakhiatashTPPCC1;ELC NaturalGas CombinedCycle M ;Takhiatash district, Karakalpakistan rep;42.315236;59.554756;gas;Existing;280;;;;;;;;280
+Uzbekistan;TakhiatashTPPCC2;ELC NaturalGas CombinedCycle M ;Takhiatash district, Karakalpakistan rep;42.315236;59.554756;gas;Existing;280;;;;;;;;280
+Uzbekistan;TashkentAksa1;ELC NaturalGas CombinedCycle M ;Kibray district, Tashkent city;41.383017;69.361198;gas;Existing;240;;;;;;;;240
+Uzbekistan;Yangiarik1;ELC NaturalGas CombinedCycle M ;Khorezm region, Khorezm region;41.327;60.552;gas;Existing;174;;;;;;;;174
+Uzbekistan;Yangiyer1;ELC NaturalGas CombinedCycle M ;Yangiyer district, Tashkent region;40.284821;68.834222;gas;Existing;220;;;;;;;;240
+Uzbekistan;Bukhara1;ELC NaturalGas Piston S ;Bukhara region;39.743978;64.411911;gas;Existing;270;;;;;;;;270
+Uzbekistan;Kibray2;ELC NaturalGas Piston S ;Kibray district, Tashkent city;41.3869298;69.46355679;gas;Existing;230;;;;;;;;230
+Uzbekistan;TashkentCHP2;CHP NaturalGas Steam S ;Tashkent city;41.3796;69.370217;gas;Planned;;;;;;;;;32
+Uzbekistan;TashkentCHP3;CHP NaturalGas Steam S ;Tashkent city;41.3796;69.370217;gas;Planned;;;;;;;;;32
+Uzbekistan;TalimarjanTPPCC3;ELC NaturalGas CombinedCycle L ;Talimarjan district, Kashkadarya region;38.481232;65.62977;gas;Planned;;;;;;;;;450
+Uzbekistan;TalimarjanTPPCC4;ELC NaturalGas CombinedCycle L ;Talimarjan district, Kashkadarya region;38.481233;65.62978;gas;Planned;;;;;;;;;450
+Uzbekistan;NavoiTPPCC3;ELC NaturalGas CombinedCycle L ;Karmana district, Navoiy region;40.158459;65.311909;gas;Planned;;;;;;;;;650
+Uzbekistan;NavoiTPPCC4;ELC NaturalGas CombinedCycle L ;Karmana district, Navoiy region;40.158459;65.311909;gas;Planned;;;;;;;;;650
+Uzbekistan;SyrdaryaTPP1;ELC NaturalGas CombinedCycle L ;Shirin city, Syrdarya region;40.228056;69.100556;gas;Planned;;;;;;;;;1 600
+Uzbekistan;SyrdaryaTPP1a;ELC NaturalGas CombinedCycle L ;Shirin city, Syrdarya region;40.228056;69.100556;gas;Planned;;;;;;;;;750
+Uzbekistan;SyrdaryaTPP1b;ELC NaturalGas CombinedCycle L ;Shirin city, Syrdarya region;40.228056;69.100556;gas;Planned;;;;;;;;;750
+Uzbekistan;Karmana SPS;Masdar;Karmana, Navoiy;40.1424754;65.3688335;solar;Existing;;100;100;100;100;100;100;100;100
+Uzbekistan;Tutli SPS;Total Energis;Kattakurgan, Samarkand;39.6925;65.5203;solar;Existing;;100;100;100;165;165;165;165;165
+Uzbekistan;Samarkand SPS;Masdar;Kattakurgan, Samarkand;39.8607;66.4464;solar;Existing;;220;220;220;220;220;220;220;220
+Uzbekistan;Jizzakh SPS;Masdar;G'allaorol, Jizzakh;40.1390;67.5124;solar;Existing;;220;220;220;220;220;220;220;220
+Uzbekistan;Sherabad SPS;Masdar;Sherabad, Surkhandarya;37.6733;67.0194;solar;Existing;;457;457;457;457;457;457;457;457
+Uzbekistan;Vodokanal SPS;ACWA Power;Tashkent, Tashkent;41.2995;69.2401;solar;Existing;;;200;200;200;200;200;200;200
+Uzbekistan;Nurobod SPS;ACWA Power;Nurobod, Samarkand;39.5000;66.7500;solar;Planned;;;;;100;500;1000;1000;1000
+Uzbekistan;Olot SPS;Masdar;Olot, Bukhara;39.4670;63.8000;solar;Planned;;;;;250;250;250;250;250
+Uzbekistan;Khorazm SPS;Voltalia;Urgench, Khorezm;41.5500;60.6333;solar;Planned;;;;50;100;100;100;100;100
+Uzbekistan;Nishan SPS;China Gezhoba;Nishon, Kashkadarya;38.8236;65.7843;solar;Existing;;200;500;500;500;500;500;500;500
+Uzbekistan;Korovulbazar SPS;China Gezhoba;Korovulbazar, Bukhara;39.4500;64.0000;solar;Existing;;200;500;500;500;500;500;500;500
+Uzbekistan;Guzor SPS;Masdar;Guzar, Kashkadarya;38.6200;66.2500;solar;Planned;;;;;300;300;300;300;300
+Uzbekistan;Pop SPS;Tepelen Group AG;Pop, Namangan;40.8731;71.1089;solar;Existing;;;200;500;500;500;500;500;500
+Uzbekistan;Tutli SPS;Tepelen Group AG;Kattakurgan, Samarkand;39.8630;66.4470;solar;Existing;;30;30;30;30;30;30;30;30
+Uzbekistan;Navoiy SPS;Tepelen Group AG;Navoiy, Navoiy;40.0844;65.3792;solar;Existing;;;200;200;200;200;200;200;200
+Uzbekistan;Karakul SPS;Tepelen Group AG;Karakul, Bukhara;39.5333;64.2667;solar;Planned;;;;100;200;500;500;500;500
+Uzbekistan;Pop SPS;Hyper Partners;Pop, Namangan;40.8731;71.1089;solar;Existing;;;100;500;500;500;500;500;500
+Uzbekistan;Nurata SPS;China Gezhoba;Nurata, Navoiy;40.5600;65.6889;solar;Planned;;;;150;300;300;300;300;300
+Uzbekistan;Buka SPS;China Datang;Buka, Tashkent;40.8100;69.1989;solar;Existing;;;100;263;263;263;263;263;263
+Uzbekistan;Farish SPS;CEE, Poly Changda;Farish, Jizzakh;40.5000;67.5000;solar;Existing;;;200;500;500;500;500;500;500
+Uzbekistan;Ferghana SPS;GD Power, CAMCE;Fergana, Fergana;40.3833;71.7833;solar;Existing;;;200;500;500;500;500;500;500
+Uzbekistan;Ferghana SPS;Hyper Partners;Fergana, Fergana;40.3833;71.7833;solar;Planned;;;;200;200;200;200;200;200
+Uzbekistan;Andijan SPS;Suling Energy;Andijan, Andijan;40.7833;72.3500;solar;Existing;;;100;400;400;400;400;400;400
+Uzbekistan;Navoiy SPS;Sinoma;Navoiy, Navoiy;40.0844;65.3792;solar;Existing;;;100;300;300;300;300;300;300
+Uzbekistan;Nurabad SPS;Total Energis;Nurabad, Samarkand;39.5000;66.7500;solar;Planned;;;;;;;900;900;900
+Uzbekistan;Bukhara Hybrid;Voltalia;Bukhara, Bukhara;39.7670;64.4250;solar;Planned;;;;;;;100;100;100
+Uzbekistan;Tomdi WPS;Masdar;Tomdi, Navoiy;42.2833;64.8667;wind;Existing;;100;300;500;500;500;500;500;500
+Uzbekistan;Karatau-WPS-1;ACWA Power;Karatau, Karakalpakstan;43.0000;58.0000;wind;Planned;;;;100;100;100;100;100;100
+Uzbekistan;Bash-WPS-1;ACWA Power;Bash, Bukhara;39.7500;64.6000;wind;Existing;;;200;500;500;500;500;500;500
+Uzbekistan;Bash-WPS-2;ACWA Power;Bash, Bukhara;39.7500;64.6000;wind;Planned;;;;;100;300;300;300;300
+Uzbekistan;Bash-WPS-Hydrogen;ACWA Power;Bash, Bukhara;39.7500;64.6000;wind;Planned;;;;100;100;100;100;100;100
+Uzbekistan;Jankeldi-WPS;ACWA Power;Jankeldi, Bukhara;39.7500;64.6000;wind;Existing;;;200;500;500;500;500;500;500
+Uzbekistan;Kungirat-WPS-1;ACWA Power;Kungrad, Karakalpakstan;43.0833;58.5333;wind;Planned;;;;;;250;500;500;500
+Uzbekistan;Kungirat-WPS-2;ACWA Power;Kungrad, Karakalpakstan;43.0833;58.5333;wind;Planned;;;;;;250;500;500;500
+Uzbekistan;Kungirat-WPS-3;ACWA Power;Kungrad, Karakalpakstan;43.0833;58.5333;wind;Planned;;;;;;250;500;500;500
+Uzbekistan;Kungirat-WPS-4;ACWA Power;Kungrad, Karakalpakstan;43.0833;58.5333;wind;Planned;;;;;;;300;500;500
+Uzbekistan;Shurkul WPS;Liaoning Lide Ltd;Shurkul, Bukhara;39.7500;64.6000;wind;Planned;;;;;100;400;600;600;600
+Uzbekistan;Bulungur WPS;Universal Energy;Bulungur, Samarkand;39.750;67.250;wind;Planned;;;;;100;300;500;500;500
+Uzbekistan;Karatau-WPS-2;ACWA Power;Karatau, Karakalpakstan;43.000;58.000;wind;Planned;;;;;200;200;200;200;200
+Uzbekistan;Nurata WPS;China Gezhoba;Nurata, Navoiy;40.5600;65.6886;wind;Planned;;;;;300;300;300;300;300
+Uzbekistan;Kungirat WPS-5;Sany Renewables;Kungrad, Karakalpakstan;43.0833;58.5333;wind;Planned;;;;;;;200;700;1000
+Uzbekistan;Kungirat WPS-6;AMEA Power;Kungrad, Karakalpakstan;43.0833;58.5333;wind;Planned;;;;;;;200;700;1000
+Uzbekistan;Uchkuduk WPS;Nebras;Uchkuduk, Navoiy;42.1544;63.5660;wind;Planned;;;;;;;100;500;500
+Uzbekistan;Tamdi-Uchkuduk WPS;Datang;Tamdy, Navoiy;42.0667;64.0667;wind;Planned;;;;;;;100;500;500
+Uzbekistan;Samarkand WPS;Suling;Samarkand, Samarkand;39.6270;66.9740;wind;Planned;;;;;;;100;500;500
+Uzbekistan;Kashkadarya WPS;Suling;Karshi, Kashkadarya;38.8600;65.8000;wind;Planned;;;;;;;100;500;500
+Uzbekistan;Farish WPS;Huadian;Farish, Jizzakh;40.5000;67.5000;wind;Planned;;;;;;;100;500;500
+Uzbekistan;Jandar WPS;Toyota Tsusho;Jandar, Tashkent;41.3000;69.2500;wind;Planned;;;;;;;;100;500
+Uzbekistan;Bukhara Hybrid;Voltalia;Bukhara, Bukhara;39.7670;64.4250;wind;Planned;;;;;;;;150;300
+Uzbekistan;Mingbulak WPS;Masdar;Mingbulak, Namangan;40.9333;71.5333;wind;Planned;;;;;;;;1000;2000
+Uzbekistan;Peshku-Gijduvan WPS;ACWA Power;Peshku/Gijduvan, Bukhara;40.1000;64.6833;wind;Planned;;;;;;;;1000;2000
+Uzbekistan;Kungurat WPSes;ACWA Power;Kungrad, Karakalpakstan;43.0833;58.8500;wind;Planned;;;;;;;;2500;5000
+Uzbekistan;Upper Pskem HAS;Hydroelectric Power Stations;Bostanlik District, Tashkent Region;41.8901;70.3591;hydro;Planned;;;;;;;;;600
+Uzbekistan;Khujakent HAS;Hydroelectric Power Stations;Bostanlik District, Tashkent Region;41.5000;69.9167;hydro;Planned;;;;;;;;;200
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
