@@ -129,7 +129,7 @@ Sample outputs are saved in `results/` directory:
 
 ### Images
 ![Image 1](https://github.com/abdulboriyev/PyPSA/blob/main/results/hourly_generation_2030.png?raw=true)
-![Image 2](https://github.com/abdulboriyev/PyPSA/blob/main/result/yearly_generation_mix.png?raw=true)
+![Image 2](https://github.com/abdulboriyev/PyPSA/blob/main/results/yearly_generation_mix.png?raw=true)
 
 
 ## Configuration
