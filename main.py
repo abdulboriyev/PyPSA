@@ -171,7 +171,7 @@ def plot_results(results: dict, config: dict) -> None:
     plt.rcParams.update({'font.size': vis.get('font_size', 12)})
 
     # Yearly generation mix plot
-    valid_years = [y for y, d in results.items() if d.get("status") == "processed"]
+    valid_years = [y for y, d in results.items() if d.get("status") == "optimal"]
     if valid_years:
         yearly_totals = pd.DataFrame({
             y: results[y]["hourly"][fuel_order].sum()
@@ -191,7 +191,7 @@ def plot_results(results: dict, config: dict) -> None:
     # Hourly profiles with error handling
     for year, data in results.items():
         fig, ax = plt.subplots(figsize=vis['figure_size'])
-        if data.get("status") != "processed":
+        if data.get("status") != "optimal":
             error_text = "\n".join([
                 f"Status: {data.get('status', 'unknown')}",
                 f"Reason: {data.get('message', 'Unknown error')}",
