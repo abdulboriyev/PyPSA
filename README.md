@@ -127,6 +127,11 @@ Sample outputs are saved in `results/` directory:
 - Yearly Generation Mix
 - Hourly Dispatch Pattern
 
+### Images
+![Image 1](https://github.com/abdulboriyev/PyPSA/blob/main/results/hourly_generation_2030.png?raw=true)
+![Image 2](https://github.com/abdulboriyev/PyPSA/blob/main/result/yearly_generation_mix.png?raw=true)
+
+
 ## Configuration
 
 Modify `config.yaml` for different scenarios:
@@ -223,7 +228,7 @@ data_paths:
 ```
 
 ## Contact
-- **Project Maintainer:** Xojiakbar
+- **Name:** Xojiakbar Abdulboriyev
 - **Email:** x.abdulboriyev@newuu.uz
 - Project Link: https://github.com/abdulboriyev/PyPSA.git
 
