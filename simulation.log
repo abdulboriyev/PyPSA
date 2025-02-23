@@ -1,0 +1,119 @@
+2025-02-23 04:04:54,358 - ERROR - Data file not found: [Errno 2] No such file or directory: 'data/demand.csv'
+2025-02-23 04:08:16,740 - INFO - 
+========================================
+Processing 2025
+========================================
+2025-02-23 04:08:16,809 - ERROR - Critical error in 2025: 'import_generator'
+2025-02-23 04:08:16,809 - INFO - 
+========================================
+Processing 2026
+========================================
+2025-02-23 04:08:16,867 - ERROR - Critical error in 2026: 'import_generator'
+2025-02-23 04:08:16,867 - INFO - 
+========================================
+Processing 2027
+========================================
+2025-02-23 04:08:16,920 - ERROR - Critical error in 2027: 'import_generator'
+2025-02-23 04:08:59,909 - INFO - 
+========================================
+Processing 2025
+========================================
+2025-02-23 04:08:59,987 - ERROR - Critical error in 2025: cannot reindex on an axis with duplicate labels
+2025-02-23 04:08:59,987 - INFO - 
+========================================
+Processing 2026
+========================================
+2025-02-23 04:09:00,060 - ERROR - Critical error in 2026: cannot reindex on an axis with duplicate labels
+2025-02-23 04:09:00,060 - INFO - 
+========================================
+Processing 2027
+========================================
+2025-02-23 04:09:00,128 - ERROR - Critical error in 2027: cannot reindex on an axis with duplicate labels
+2025-02-23 04:11:39,392 - WARNING - Aggregating 61320 duplicate timestamps in 2025
+2025-02-23 04:11:39,508 - WARNING - Aggregating 61320 duplicate timestamps in 2026
+2025-02-23 04:11:39,622 - WARNING - Aggregating 61320 duplicate timestamps in 2027
+2025-02-23 04:11:39,628 - INFO - 
+========================================
+Processing 2025
+========================================
+2025-02-23 04:11:39,713 - WARNING - The following generators have carriers which are not defined:
+Index(['Plant_A', 'Plant_B', 'Plant_D', 'Plant_E', 'bus_1_import',
+       'bus_2_import', 'bus_3_import'],
+      dtype='object', name='Generator')
+2025-02-23 04:11:39,723 - WARNING - The following lines have carriers which are not defined:
+Index(['line_1', 'line_2', 'line_3', 'line_4'], dtype='object', name='Line')
+2025-02-23 04:11:39,725 - WARNING - The following buses have carriers which are not defined:
+Index(['bus_1', 'bus_2', 'bus_3'], dtype='object', name='Bus')
+2025-02-23 04:11:39,908 - INFO -  Solve problem using Highs solver
+2025-02-23 04:11:39,908 - INFO - Solver options:
+ - presolve: on
+ - time_limit: 3600
+ - threads: 4
+2025-02-23 04:11:39,927 - INFO - Writing objective.
+2025-02-23 04:11:40,519 - INFO -  Writing time: 0.59s
+2025-02-23 04:11:41,128 - WARNING - Optimization potentially failed: 
+Status: warning
+Termination condition: infeasible
+Solution: 0 primals, 0 duals
+Objective: nan
+Solver model: available
+Solver message: infeasible
+
+2025-02-23 04:11:41,129 - ERROR - Optimization failed for 2025: tuple indices must be integers or slices, not str
+2025-02-23 04:11:41,129 - INFO - 
+========================================
+Processing 2026
+========================================
+2025-02-23 04:11:41,209 - WARNING - The following generators have carriers which are not defined:
+Index(['Plant_A', 'Plant_B', 'Plant_D', 'Plant_E', 'bus_1_import',
+       'bus_2_import', 'bus_3_import'],
+      dtype='object', name='Generator')
+2025-02-23 04:11:41,219 - WARNING - The following lines have carriers which are not defined:
+Index(['line_1', 'line_2', 'line_3', 'line_4'], dtype='object', name='Line')
+2025-02-23 04:11:41,221 - WARNING - The following buses have carriers which are not defined:
+Index(['bus_1', 'bus_2', 'bus_3'], dtype='object', name='Bus')
+2025-02-23 04:11:41,367 - INFO -  Solve problem using Highs solver
+2025-02-23 04:11:41,367 - INFO - Solver options:
+ - presolve: on
+ - time_limit: 3600
+ - threads: 4
+2025-02-23 04:11:41,388 - INFO - Writing objective.
+2025-02-23 04:11:41,943 - INFO -  Writing time: 0.55s
+2025-02-23 04:11:42,531 - WARNING - Optimization potentially failed: 
+Status: warning
+Termination condition: infeasible
+Solution: 0 primals, 0 duals
+Objective: nan
+Solver model: available
+Solver message: infeasible
+
+2025-02-23 04:11:42,531 - ERROR - Optimization failed for 2026: tuple indices must be integers or slices, not str
+2025-02-23 04:11:42,531 - INFO - 
+========================================
+Processing 2027
+========================================
+2025-02-23 04:11:42,606 - WARNING - The following generators have carriers which are not defined:
+Index(['Plant_A', 'Plant_B', 'Plant_D', 'bus_1_import', 'bus_2_import',
+       'bus_3_import'],
+      dtype='object', name='Generator')
+2025-02-23 04:11:42,615 - WARNING - The following lines have carriers which are not defined:
+Index(['line_1', 'line_2', 'line_3', 'line_4'], dtype='object', name='Line')
+2025-02-23 04:11:42,617 - WARNING - The following buses have carriers which are not defined:
+Index(['bus_1', 'bus_2', 'bus_3'], dtype='object', name='Bus')
+2025-02-23 04:11:42,798 - INFO -  Solve problem using Highs solver
+2025-02-23 04:11:42,798 - INFO - Solver options:
+ - presolve: on
+ - time_limit: 3600
+ - threads: 4
+2025-02-23 04:11:42,817 - INFO - Writing objective.
+2025-02-23 04:11:43,325 - INFO -  Writing time: 0.51s
+2025-02-23 04:11:43,861 - WARNING - Optimization potentially failed: 
+Status: warning
+Termination condition: infeasible
+Solution: 0 primals, 0 duals
+Objective: nan
+Solver model: available
+Solver message: infeasible
+
+2025-02-23 04:11:43,861 - ERROR - Optimization failed for 2027: tuple indices must be integers or slices, not str
+2025-02-23 04:17:13,945 - WARNING - Resampled demand data to hourly frequency

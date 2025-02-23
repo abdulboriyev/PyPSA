@@ -1,0 +1,88 @@
+simulation:
+  years: [2025, 2026, 2027, 2028, 2029, 2030]
+
+network:
+  buses: ["bus_1", "bus_2", "bus_3"]
+  base_voltage: 500
+  bus_carrier: "AC"
+  line_carrier: "AC"
+
+fuels:
+  solar:
+    hour_min: 6
+    hour_max: 18
+    max_capacity_factor: 1.0
+    min_capacity_factor: 0.0
+  wind:
+    hour_min: 0
+    hour_max: 23
+    max_capacity_factor: 0.9
+    min_capacity_factor: 0.0
+  coal:
+    hour_min: 0
+    hour_max: 23
+    max_capacity_factor: 1.0
+    min_capacity_factor: 0.0
+  gas:
+    hour_min: 0
+    hour_max: 23
+    max_capacity_factor: 1.0
+    min_capacity_factor: 0.0
+  hydro:
+    hour_min: 0
+    hour_max: 23
+    max_capacity_factor: 0.9
+    min_capacity_factor: 0
+
+hydro: "#4B89DC"
+
+visualization:
+  output_dir: "results"
+  format: "png"
+  dpi: 300
+  figure_size: [12, 6]
+  alpha: 0.85
+  xlim: [0, 23]
+  xtick_interval: 2
+  show_legend: true
+  fuel_order: [coal, gas, solar, wind, hydro, import]
+  allowed_duplicates: []
+  colors:
+    solar: "#FFD700"
+    wind: "#4682B4"
+    coal: "#3D3D3D"
+    hydro: "#4B89DC"
+    gas: "#FF6347"
+    import: "#9370DB"
+  error_color: "#FF0000"
+
+  font_sizes:
+    title: 14
+    label: 12
+    legend: 10
+    error: 12
+
+  labels:
+    hourly_x: "Hour of Day"
+    hourly_y: "Power Generation (MW)"
+
+  titles:
+    yearly: "Annual Generation Mix"
+    hourly: "Hourly Generation Profile"
+    infeasible: "No Solution Found"
+
+  legend:
+    loc: "upper left"
+    title: "Energy Sources"
+
+  messages:
+    infeasible: "System configuration cannot meet demand"
+
+  units:
+    power: "MW"
+    energy: "GWh"
+data_paths:
+  demand: "data/demand_data.csv"
+  power_plants: "data/power_plants.csv"
+  transmission: "data/transmission_data.csv"
+
